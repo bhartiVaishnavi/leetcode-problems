@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 ## Simulation
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
