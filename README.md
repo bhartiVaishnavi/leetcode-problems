@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1922-count-good-numbers](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
