@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
