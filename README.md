@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
