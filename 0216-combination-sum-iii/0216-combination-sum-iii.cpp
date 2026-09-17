@@ -7,9 +7,9 @@ public:
         }
         for(int i = ind; i< 9; i++){
             
-            // if(i + 1 > n) {
-            //     break;
-            // }
+            if(i + 1 > n) {
+                break;
+            }
             ds.push_back(i + 1);
             findcombo(i + 1, k, ds, n - (i + 1), ans);
             ds.pop_back();
