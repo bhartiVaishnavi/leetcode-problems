@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0035-search-insert-position) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0061-rotate-list) |
