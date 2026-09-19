@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0031-next-permutation) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
