@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0090-subsets-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0131-palindrome-partitioning) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
