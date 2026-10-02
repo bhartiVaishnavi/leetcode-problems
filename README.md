@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0216-combination-sum-iii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0216-combination-sum-iii) |
@@ -252,8 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
