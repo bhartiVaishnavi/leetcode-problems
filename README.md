@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
